@@ -3,9 +3,11 @@
 
 # Sobre o Projeto
 
-Foi utilizado infraestruta como código para criar duas instancias EC2 na AWS utilizando terraform.
+Foi utilizado infraestruta como código para criar duas instancias EC2 na AWS utilizando terraform. Também foram criados dois workspace de Dev e Prod
 
 ## Tecnlogias utilizadas
+- AWS S3
+- AWS EC2
 - AWS CLI
 - Terraform
 - Linux
